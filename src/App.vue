@@ -13,8 +13,6 @@
           </li>
         </ul>
       </div>
-
-
     </header>
     <main>
       <img src="./assets/logo.png" alt="Vue.js PWA">
